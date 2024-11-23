@@ -1,0 +1,5 @@
+nlayers: 12
+embed_dim: 128
+inner_dim: 512
+use_1x1conv: True
+dropout: 0.3

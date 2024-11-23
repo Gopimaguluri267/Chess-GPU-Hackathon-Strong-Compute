@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+theta_hat_submission/checkpoint.pt
 # C extensions
 *.so
 
