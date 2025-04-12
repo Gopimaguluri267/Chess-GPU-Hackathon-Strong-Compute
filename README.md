@@ -1,5 +1,6 @@
 # Chess-GPU-Hackathon-Strong-Compute
-Codebase developed by us to train deep learning to play Chess during the 5th Chess GPU Hackathon organized by Strong Compute
+
+This is the codebase in which we developed a chess bot that combines convolutional neural networks with self-attention and squeeze-excitation blocks. Unlike traditional chess engines relying on reinforcement learning, this approach treats board evaluation as a computer vision problem, processing 8×8 chess boards with piece encoding to produce a scalar position score. Trained on 350,000 Grandmaster games using a 48-GPU cluster, this innovative model won us and my team a $10,000 credit in a hackathon.
 
 # Team: THETA HAT
 ### Gopi Maguluri
